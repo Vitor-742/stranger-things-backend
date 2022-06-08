@@ -1,6 +1,7 @@
 node_modules/
 tests/
-actions/ 
+actions/
+.env
 .git
 heroku.yml
 README.md
