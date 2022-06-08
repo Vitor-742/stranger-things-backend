@@ -16,7 +16,7 @@ const strangerThingsService = new StrangerThingsService(
 );
 
 app.use(cors());
-
+// com .env no dockerignore passa um mas nn outro e vice versa
 
 const hereIsTheUpsideDown = process.env.UPSIDEDOWN_MODE === 'true';
 console.log(hereIsTheUpsideDown)
