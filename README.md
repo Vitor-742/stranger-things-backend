@@ -1,9 +1,5 @@
-# Boas vindas ao repositório backend do projeto de Deploy - Stranger Things!
+__STRANGER THINGS BACKEND__
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de backend.
+Desenvolvido por Vitor Campos
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
-
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do backend.
-
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-017-stranger-things) em que os requisitos do projeto são destrinchados.
+Este projeto foi feito em dois repositórios, um de back e um de front. Neles é feito preparado o deploy com heroku, utilizando docker em ambiente de produção.
